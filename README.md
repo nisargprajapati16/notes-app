@@ -39,7 +39,7 @@ npm install
 Create a `.env` file in the `frontend` directory:
 
 ```env
-VITE_API_URL=http://localhost:3000/api
+VITE_API_URL=http://localhost:3000
 VITE_SOCKET_URL=http://localhost:3000
 ```
 
