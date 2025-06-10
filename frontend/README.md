@@ -9,7 +9,7 @@ This is the **frontend** for the Notes App, built with React, Vite, TypeScript, 
 ### 1. **Clone the Repository**
 
 ```sh
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/nisargprajapati16/notes-app
 cd notes-app/frontend
 ```
 
