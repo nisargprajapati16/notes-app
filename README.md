@@ -126,4 +126,3 @@ npm start
 | PORT       | Port for the server        |
 | MONGO_URI  | MongoDB connection string  |
 
----
